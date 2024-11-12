@@ -38,6 +38,8 @@ GameOfLife/
 |   └── pygame_visualization.py     # Visualization with pygame.
 ├── .gitignore                      # Git ignore file
 ├── pyproject.toml                  # Poetry configuration and dependencies
+├── poetry.lock                     # Poetry lock file to ensure consistent dependencies
+├── LICENSE                         # License file for the project
 └── README.md                       # This README file
 </pre>
 
